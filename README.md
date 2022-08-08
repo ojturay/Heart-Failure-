@@ -11,11 +11,11 @@ dataset does not indicate if any of the patients has a primary kidney disease. T
 Age, Serum Creatinine and Ejection Fraction were identifed as highly correlated to the death event and when modeled using the logistic regression had significant p-vales at 0.05 as it the model cotaining these three values had the lowest AIC score. Model had a 76.27% accuracy(95% C.I 63.41%, 86.38%) in predicitng the outcome death with a Sensitivity of 75% and a Specificity of 85.71%.
 
 In the Survival Analysis, the data set was divided into 2 groups : 
-  a. low risk - age < 65, normal ejection fraction (41-75%), normal serum creatinine levels(0.74-          1.35mg/dL)
+  a. low risk - age < 65, normal ejection fraction (41 - 75%), normal serum creatinine levels(0.74 - 1.35mg/dL)
   b. high risk - age > 65, abnormal ejection fraction and serum creatinine levels 
 It was observed that p values(0.08) from the cox model was consistent with result that 
 Serum Creatinine, Ejection Fraction and Age are the most important variables in patients with heart disease in predicting death outcome.
 
-Therefore, public education can be directed towards lifestyle modifications that can improve ejection fraction, reduces serum creatine not only for those over 65years but younger as well.
+Therefore, public education can be directed towards lifestyle modifications that can improve ejection fraction, reduces serum creatine levels not only for those over 65years but younger as well.
 
 
