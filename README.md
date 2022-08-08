@@ -8,7 +8,7 @@ Dataset contained the medical records of 299 heart failure patients collected at
 The dataset contains 13 features wwhich report clinical and lifestyle information. some of the features are binary (e.g., diabetic status, anaemeic status, smoking status). information on the serum creatinine levels are available although
 dataset does not indicate if any of the patients has a primary kidney disease. The death event feature as our target is a binary classification, states if the patient survived before the end of the follow up period.
 
-Age, Serum Creatinine and Ejection Fraction were identifed as highly correlated to the death event and when modeled using the logistic regression had significant p-vales at 0.05 as it the model cotaining these three values had the lowest AIC score. Model had a 76.27% accuracy(95% C.I 63.41%, 86.38%) in predicitng the outcome death with a Sensitivity of 75% and a Specificity of 85.71%.
+Age, Serum Creatinine and Ejection Fraction were identifed as highly correlated to the death event and when modeled using the logistic regression had significant p-vales at 0.05. The model containing these three variables had the lowest AIC score. Model had a 76.27% accuracy(95% C.I 63.41%, 86.38%) in predicitng the outcome death with a Sensitivity of 75% and a Specificity of 85.71%.
 
 In the Survival Analysis, the data set was divided into 2 groups : 
   a. low risk - age < 65, normal ejection fraction (41 - 75%), normal serum creatinine levels(0.74 - 1.35mg/dL)
