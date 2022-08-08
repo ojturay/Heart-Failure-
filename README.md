@@ -16,6 +16,6 @@ In the Survival Analysis, the data set was divided into 2 groups :
 It was observed that p values(0.08) from the cox model was consistent with result that 
 Serum Creatinine, Ejection Fraction and Age are the most important variables in patients with heart disease in predicting death outcome.
 
-Therefore, public education can be directed towards lifestyle modifications that can improve ejection fraction, reduces serum creatine levels not only for those over 65years but younger as well.
+Therefore, public education can be directed towards lifestyle modifications that improves ejection fraction, reduces serum creatine levels not only for those over 65years but younger as well.
 
 
